@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/edit/edit",
+    "pages/me/me",
+    "pages/list/list"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "表白墙",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "black",
+    "list": [
+      {
+        "selectedIconPath": "img/love_selected.png",
+        "iconPath": "img/love.png",
+        "pagePath": "pages/list/list",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "img/edit_selected.png",
+        "iconPath": "img/edit.png",
+        "pagePath": "pages/edit/edit",
+        "text": "表白"
+      },
+      {
+        "selectedIconPath": "img/me_selected.png",
+        "iconPath": "img/me.png",
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      }
+    ]
+  }
+}

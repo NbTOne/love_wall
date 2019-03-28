@@ -1,0 +1,69 @@
+/* pages/list/list.wxss */
+
+.car {
+  border: 1px solid #9cf;
+  border-radius: 15px;
+  margin: 30rpx;
+  padding: 15rpx;
+}
+
+.car-head {
+  border-bottom: 1px solid #9cf;
+  height: 50rpx;
+  padding-bottom: 15rpx;
+}
+
+.car-head image {
+  height: 40rpx;
+  width: 40rpx;
+  margin-left: 10rpx;
+  margin-right: 10rpx;
+}
+
+.car-head-left {
+  display: inline;
+}
+
+.car-head-left text {
+  color: #9cf;
+}
+
+.car-head-time {
+  float: right;
+  color: #9cc;
+  font-size: 25rpx;
+}
+
+.car-content{
+  padding-top:15rpx;
+  padding-bottom: 15rpx;
+}
+
+.car-content image {
+  margin-top: 15rpx;
+  width: 100%;
+}
+
+.car-foot {
+  padding-top: 10rpx;
+  height: 50rpx;
+  text-align: center;
+  border-top: 1px solid #9cf;
+}
+
+.car-foot view {
+  display: inline-block;
+  width: 200rpx;
+}
+
+.car-foot view text {
+  position: relative;
+  top: -25rpx;
+  font-size: 20rpx;
+  color: red;
+}
+
+.car-foot image {
+  width: 50rpx;
+  height: 50rpx;
+}

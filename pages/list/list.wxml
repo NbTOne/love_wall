@@ -1,0 +1,66 @@
+<!--pages/list/list.wxml-->
+<view class='main'>
+  <view class='car'>
+    <view class='car-head'>
+      <view class='car-head-left'><text>小明</text><image src='/img/to.png'></image><text>小红</text></view>
+      <text class='car-head-time'>2018-12-13 23:21:36</text>
+    </view>
+    <view class='car-content'>
+      <text class='car-content-text'>梵蒂冈梵蒂冈离开两个的公交卡的发过来的航空节点开关梵蒂冈地方</text>
+      <image class='car-content-img' src='/img/demo.jpg' mode='widthFix'></image>
+    </view>
+    <view class='car-foot'>
+    <view><image src='/img/zan.png'></image><text class='sup'>999+</text></view>
+    <view> <image src='/img/comment.png'></image><text class='sup'>999+</text></view>
+    <view><image src='/img/guess.png'></image></view>
+    </view>
+  </view>
+
+    <view class='car'>
+    <view class='car-head'>
+      <view class='car-head-left'><text>小明</text><image src='/img/to.png'></image><text>小红</text></view>
+      <text class='car-head-time'>2018-12-13 23:21:36</text>
+    </view>
+    <view class='car-content'>
+      <text class='car-content-text'>梵蒂冈梵蒂冈离开两个的公交卡的发过来的航空节点开关梵蒂冈地方</text>
+      <image class='car-content-img' src='/img/demo.jpg' mode='widthFix'></image>
+    </view>
+    <view class='car-foot'>
+    <view><image src='/img/zan.png'></image><text class='sup'>999+</text></view>
+    <view> <image src='/img/comment.png'></image><text class='sup'>999+</text></view>
+    <view><image src='/img/guess.png'></image></view>
+    </view>
+  </view>
+
+    <view class='car'>
+    <view class='car-head'>
+      <view class='car-head-left'><text>小明</text><image src='/img/to.png'></image><text>小红</text></view>
+      <text class='car-head-time'>2018-12-13 23:21:36</text>
+    </view>
+    <view class='car-content'>
+      <text class='car-content-text'>梵蒂冈梵蒂冈离开两个的公交卡的发过来的航空节点开关梵蒂冈地方</text>
+      <image class='car-content-img' src='/img/demo.jpg' mode='widthFix'></image>
+    </view>
+    <view class='car-foot'>
+    <view><image src='/img/zan.png'></image><text class='sup'>999+</text></view>
+    <view> <image src='/img/comment.png'></image><text class='sup'>999+</text></view>
+    <view><image src='/img/guess.png'></image></view>
+    </view>
+  </view>
+
+    <view class='car'>
+    <view class='car-head'>
+      <view class='car-head-left'><text>小明</text><image src='/img/to.png'></image><text>小红</text></view>
+      <text class='car-head-time'>2018-12-13 23:21:36</text>
+    </view>
+    <view class='car-content'>
+      <text class='car-content-text'>梵蒂冈梵蒂冈离开两个的公交卡的发过来的航空节点开关梵蒂冈地方</text>
+      <image class='car-content-img' src='/img/demo.jpg' mode='widthFix'></image>
+    </view>
+    <view class='car-foot'>
+    <view><image src='/img/zan.png'></image><text class='sup'>999+</text></view>
+    <view> <image src='/img/comment.png'></image><text class='sup'>999+</text></view>
+    <view><image src='/img/guess.png'></image></view>
+    </view>
+  </view>
+</view>

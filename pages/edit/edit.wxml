@@ -1,0 +1,15 @@
+<!--pages/edit/edit.wxml-->
+<view class='main'>
+  <view class='form-box'>
+    <form>
+      <view class="her-name">
+        <label>*他（她）的名字：</label>
+        <input type='text' />
+      </view>
+      <view class="love-content">
+        <label>*表白内容：</label>
+        <textarea placeholder="300字以内" auto-focus />
+      </view>
+    </form>
+  </view>
+</view>

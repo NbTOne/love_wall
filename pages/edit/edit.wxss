@@ -1,0 +1,21 @@
+/* pages/edit/edit.wxss */
+
+.form-box{
+  margin: 0 auto;
+   width: 90%;
+}
+
+form label{
+  color: #9cf;
+}
+
+form input{
+  border: 1px solid #9cf;
+  border-radius: 15rpx;
+}
+
+textarea{
+  border: 1px solid #9cf;
+  border-radius: 15rpx;
+  width: 100%;
+}
